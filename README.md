@@ -8,4 +8,4 @@
 
 2025-03 No problems
 
-2025-04 No problems
+2025-04 One handheld doesn't lock.
